@@ -8,34 +8,11 @@ export default function Home() {
       <div className={'content-block'}>
         <div className={'dx-card responsive-paddings'}>
 
-          <p>Thanks for using the  DevExtreme React App Template.</p>
+
+          <h3>Da li ste ikad poželeli da <em>učestvujete u sportskim događajima u Nišu?</em></h3>
           <p>
-            <span>This application was built using </span>
-            <a href={'https://create-react-app.dev/'} target={'_blank'} rel={'noopener noreferrer'}>Create React App</a>
-            <span> and </span>
-            <a href={'https://js.devexpress.com/Documentation/Guide/Common/DevExtreme_CLI/'} target={'_blank'} rel={'noopener noreferrer'}>DevExtreme CLI</a>
-            <span> and includes the following DevExtreme components:</span>
-          </p>
-          <ul>
-            <li><a href={'https://js.devexpress.com/Documentation/Guide/UI_Components/DataGrid/Getting_Started_with_DataGrid/'} target={'_blank'} rel={'noopener noreferrer'}>DataGrid</a></li>
-            <li><a href={'https://js.devexpress.com/Documentation/Guide/Widgets/Form/Overview/'} target={'_blank'} rel={'noopener noreferrer'}>Form</a></li>
-            <li><a href={'https://js.devexpress.com/Documentation/Guide/Widgets/Drawer/Getting_Started_with_Navigation_Drawer/'} target={'_blank'} rel={'noopener noreferrer'}>Drawer</a></li>
-          </ul>
-
-          <p>To customize your DevExtreme React application further, please refer to the following help topics:</p>
-
-          <ul>
-            <li><a href={'https://js.devexpress.com/Documentation/Guide/React_Components/Application_Template/#Layouts'} target={'_blank'} rel={'noopener noreferrer'}>Layouts</a></li>
-            <li><a href={'https://js.devexpress.com/Documentation/Guide/React_Components/Application_Template/#Add_a_New_View'} target={'_blank'} rel={'noopener noreferrer'}>Add a New View</a></li>
-            <li><a href={'https://js.devexpress.com/Documentation/Guide/React_Components/Application_Template/#Configure_the_Navigation_Menu'} target={'_blank'} rel={'noopener noreferrer'}>Configure the Navigation Menu</a></li>
-            <li><a href={'https://js.devexpress.com/Documentation/Guide/React_Components/Application_Template/#Configure_Themes'} target={'_blank'} rel={'noopener noreferrer'}>Configure Themes</a></li>
-          </ul>
-
-          <p>
-            <span>For technical content related to DevExtreme React components, feel free to explore our </span>
-            <a href="https://js.devexpress.com/documentation/" target="_blank" rel="noopener noreferrer">online documentation</a>
-            <span> and </span>
-            <a href="https://js.devexpress.com/Demos/Widgetsgallery/" target="_blank" rel="noopener noreferrer">technical demos</a>.
+            Ovo je onda pravo mesto za Vas!<br></br>
+            <em>OpenSportsNiš</em> Vam nudi razne sportske dogadjaje koji se održavaju u Nišu. Možete lako pronaci aktivnost koja Vas zanima, a jos lakše prijaviti! Ukoliko želite sami da organizujete neki sportski događaj i to je moguće. <em>OpenSportsNiš</em> nudi svima mogućnost da organiyuju sportski događaj i postave ga na platformu.
           </p>
         </div>
       </div>
