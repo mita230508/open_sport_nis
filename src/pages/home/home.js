@@ -12,7 +12,7 @@ export default function Home() {
           <h3>Da li ste ikad poželeli da <em>učestvujete u sportskim događajima u Nišu?</em></h3>
           <p>
             Ovo je onda pravo mesto za Vas!<br></br>
-            <em>OpenSportsNiš</em> Vam nudi razne sportske dogadjaje koji se održavaju u Nišu. Možete lako pronaci aktivnost koja Vas zanima, a jos lakše prijaviti! Ukoliko želite sami da organizujete neki sportski događaj i to je moguće. <em>OpenSportsNiš</em> nudi svima mogućnost da organiyuju sportski događaj i postave ga na platformu.
+            <em>OpenSportsNiš</em> Vam nudi razne sportske događaje koji se održavaju u Nišu. Možete lako pronaći aktivnost koja Vas zanima, a jos lakše se prijaviti! Ukoliko želite sami da organizujete neki sportski događaj i to je moguće. <em>OpenSportsNiš</em> nudi svima mogućnost da organizuju sportski događaj i postave ga na platformu.
           </p>
         </div>
       </div>
