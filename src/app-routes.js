@@ -1,4 +1,4 @@
-import { HomePage, ProfilePage, PostsPage } from './pages';
+import { HomePage, ProfilePage, PostsPage, AboutPage } from './pages';
 import { withNavigationWatcher } from './contexts/navigation';
 
 const routes = [
@@ -9,6 +9,10 @@ const routes = [
     {
         path: '/posts',
         element: PostsPage
+    },
+    {
+        path: '/about',
+        element: AboutPage
     }
 ];
 

@@ -8,5 +8,10 @@ export const navigation = [
     text : 'Svi postovi',
     path : '/posts',
     icon : 'find'
+  },
+  {
+    text : 'O nama',
+    path : '/about',
+    icon : 'info'
   }
   ];
